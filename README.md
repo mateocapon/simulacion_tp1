@@ -1,3 +1,7 @@
 # simulacion_tp1
 
-link al codigo LaTex: https://es.overleaf.com/7431137385jdcjbmytrfny
+FALTA:
+
+- ej 3d
+-5 en adelante
+
