@@ -1,7 +1,8 @@
 # simulacion_tp1
 
-FALTA:
-
-- ej 3d
--5 en adelante
+ToDo:
+Ejercicio 3.d
+Ejercicio 5.c
+Ejercicio 6
+Ejercicio 7
 
